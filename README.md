@@ -1,6 +1,6 @@
 # test
 <br>
-1. Place the files on xampp htdocs
+1. Extract the files on xampp htdocs
 <br>
 2. Crete database on mysql test_login
 <br>

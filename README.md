@@ -1,7 +1,7 @@
 # test
 <br>
-Place the files on xampp htdocs
+1. Place the files on xampp htdocs
 <br>
-Crete database on mysql test_login
+2. Crete database on mysql test_login
 <br>
-Import the sql file on mysql
+3. Import the sql file on mysql
